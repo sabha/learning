@@ -5,6 +5,7 @@
 https://github.com/StephenGrider/DockerCasts
 
 > Build
+
 docker build .
 
 
