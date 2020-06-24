@@ -11,6 +11,7 @@ docker ps
 
 docker exec -it 2bddd9f16cad sh
 
+dockebuild -f Dockerfile.dev .
 
 Order of the command play a key role.
 
